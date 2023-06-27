@@ -1,0 +1,43 @@
+name: Collect trackers
+
+on:
+  push:
+    branches:
+      - main
+
+inputs:
+  urls:
+    description: 'List of URLs to fetch data from'
+    required: true
+    default:
+      - 'https://github.com/ngosang/trackerslist'
+      - 'https://newtrackon.com/list'
+
+jobs:
+  merge-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Fetch data
+        run: |
+          for url in $INPUT_urls
+          do
+             response=$(curl -s $url)
+             # save $response to a var or file
+             echo "$response" >> data.txt
+          done
+
+      - name: Merge data
+        run: |
+          run: cat data.txt > bt_tracker.txt
+
+      - name: 提交更改
+        run: |
+          git config --global user.name 'QiXing1217'
+          git config --global user.email 'qihang1217@outlook.com'
+          git add bt_tracker.txt
+          git commit -m "Merge data files"
+          git push
