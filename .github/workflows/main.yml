@@ -15,9 +15,7 @@ jobs:
 
       - name: Fetch data
         run: |
-          urls:
-            - 'https://github.com/ngosang/trackerslist'
-            - 'https://newtrackon.com/list'
+          urls: ['https://github.com/ngosang/trackerslist', 'https://newtrackon.com/list']
           
           for url in ${{ join(urls, ' ') }}
           do
