@@ -5,14 +5,6 @@ on:
     branches:
       - main
 
-inputs:
-  urls:
-    description: 'List of URLs to fetch data from'
-    required: true
-    default:
-      - 'https://github.com/ngosang/trackerslist'
-      - 'https://newtrackon.com/list'
-
 jobs:
   merge-data:
     runs-on: ubuntu-latest
@@ -23,7 +15,11 @@ jobs:
 
       - name: Fetch data
         run: |
-          for url in $INPUT_urls
+          urls:
+            - 'https://github.com/ngosang/trackerslist'
+            - 'https://newtrackon.com/list'
+          
+          for url in ${{ join(urls, ' ') }}
           do
              response=$(curl -s $url)
              # save $response to a var or file
@@ -32,9 +28,9 @@ jobs:
 
       - name: Merge data
         run: |
-          run: cat data.txt > bt_tracker.txt
+          cat data.txt > bt_tracker.txt
 
-      - name: 提交更改
+      - name: commit
         run: |
           git config --global user.name 'QiXing1217'
           git config --global user.email 'qihang1217@outlook.com'
