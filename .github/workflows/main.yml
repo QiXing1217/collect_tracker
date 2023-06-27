@@ -15,14 +15,15 @@ jobs:
 
       - name: Fetch data
         run: |
-          urls: ['https://github.com/ngosang/trackerslist', 'https://newtrackon.com/list']
-          
-          for url in urls
-          do
-             response=$(curl -s $url)
-             # save $response to a var or file
-             echo "$response" >> data.txt
-          done
+          function fetch_url_data() {
+            local url="$1"
+            local response=$(curl -s "$url")
+            # save $response to a var or file
+            echo "$response" >> data.txt
+          }
+
+          fetch_url_data "https://github.com/ngosang/trackerslist"
+          fetch_url_data "https://newtrackon.com/list"
 
       - name: Merge data
         run: |
