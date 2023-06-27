@@ -1,9 +1,8 @@
 name: Collect trackers
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 4 * * *'  # 在 UTC 时区的 4 点运行，对应 GMT+8 时区的 12 点
 
 jobs:
   merge-data:
@@ -22,12 +21,12 @@ jobs:
             echo "$response" >> data.txt
           }
 
-          fetch_url_data "https://github.com/ngosang/trackerslist"
-          fetch_url_data "https://newtrackon.com/list"
+          fetch_url_data "https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt"
+          fetch_url_data "https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt"
 
       - name: Merge data
         run: |
-          cat data.txt > bt_tracker.txt
+          cat data.txt | sort | uniq > bt_tracker.txt
 
       - name: commit
         run: |
