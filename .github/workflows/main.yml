@@ -24,6 +24,7 @@ jobs:
 
           fetch_url_data "https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt"
           fetch_url_data "https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt"
+          fetch_url_data "https://t1.hloli.org/tracker.txt"
 
       - name: Merge data
         run: |

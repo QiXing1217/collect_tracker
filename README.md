@@ -11,6 +11,7 @@
 This project brings together the following list of public trackers:
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 * [https://gitee.com/harvey520/www.yaozuopan.top](https://gitee.com/harvey520/www.yaozuopan.top)
+* [https://t1.hloli.org](https://t1.hloli.org)
 
 Thanks for these projects!
 
