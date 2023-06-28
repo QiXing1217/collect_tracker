@@ -13,6 +13,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Set time variable
+        id: time
+        run: echo "::set-output name=time::$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Fetch data
+        run: |
+          # 获取时间变量
+          time_var="${{ steps.time.outputs.time }}"
+          echo "Current time (GMT+8): $time_var"
+
       - name: Fetch data
         run: |
           function fetch_url_data() {
@@ -34,6 +44,7 @@ jobs:
         run: |
           git config --global user.name 'QiXing1217'
           git config --global user.email 'qihang1217@outlook.com'
+          git pull
           git add bt_tracker.txt
-          git commit -m "Merge data files"
+          git commit -m "$time_var - Merge bt_tracker files"
           git push
