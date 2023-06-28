@@ -38,6 +38,7 @@ jobs:
       - name: Merge data
         run: |
           cat data.txt | sort | uniq > bt_tracker.txt
+          rm data.txt
 
       - name: commit
         run: |
