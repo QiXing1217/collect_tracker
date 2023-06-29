@@ -18,12 +18,6 @@ jobs:
 
       - name: Fetch data
         run: |
-          # 获取时间变量
-          time_var="${{ env.current_time }}"
-          echo "Current time (GMT+8): $time_var"
-
-      - name: Fetch data
-        run: |
           function fetch_url_data() {
             local url="$1"
             local response=$(curl -s "$url")
@@ -46,5 +40,5 @@ jobs:
           git config --global user.name 'QiXing1217'
           git config --global user.email 'qihang1217@outlook.com'
           git add bt_tracker.txt
-          git commit -m "$time_var - Merge bt_tracker files"
+          git commit -m "${{ env.current_time }} - Merge bt_tracker files"
           git push --force
