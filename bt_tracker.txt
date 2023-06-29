@@ -1,5 +1,6 @@
 
 http://119.28.71.45:8080/announce
+http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://159.69.65.157:6969/announce
 http://185.130.47.2:6969/announce
@@ -67,6 +68,7 @@ http://t.overflow.biz:6969/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
 http://tehconnection.eu:2790/announce
+http://tk.greedland.net/announce
 http://torrent-team.net/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
@@ -82,6 +84,7 @@ http://tr.cili001.com:8070/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.edkj.club:6969/announce
+http://tracker.electro-torrent.pl/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 http://tracker.frozen-layer.com:6969/announce
@@ -111,8 +114,10 @@ http://tracker.xdvdz.com:2710/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
+http://tracker3.ctix.cn:8080/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:8080/announce
+http://trackme.theom.nz:80/announce
 http://uatracker.net/announce.php
 http://v6-tracker.0g.cx:6969/announce
 http://wg.mortis.me:6969/announce
@@ -131,6 +136,7 @@ http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thevault.bz:2810/announce
 http://www.tribalmixes.com:80/announce.php
 http://www.tvnihon.com:6969/announce
+http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.xwt-classics.net:80/announce.php
 http://www.zone-torrent.net:80/announce.php
@@ -140,6 +146,10 @@ https://1337.abcvg.info:443/announce
 https://t.btcland.xyz:443/announce
 https://t1.hloli.org/announce
 https://torrent.ubuntu.com/announce
+https://tp.m-team.cc:443/announce.php
+https://tr.abiir.top/announce
+https://tr.abir.ga/announce
+https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
@@ -147,23 +157,29 @@ https://tr.ready4.icu:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.foreverpirates.co:443/announce
+https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
+https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
+https://tracker.loligirl.cn/announce
 https://tracker.loligirl.cn:443/announce
+https://tracker.m-team.cc/announce.php
 https://tracker.moeblog.cn:443/announce
 https://tracker.nanoha.org/announce
 https://tracker.tamersunion.org/announce
 https://tracker.tamersunion.org:443/announce
+https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://tracker2.ctix.cn/announce
 https://tracker2.ctix.cn:443/announce
 https://trackers.mlsub.net:443/announce
+https://trackme.theom.nz:443/announce
 udp://102.223.180.235:6969/announce
 udp://103.196.36.31:6969/announce
 udp://104.131.98.232:6969/announce
@@ -341,6 +357,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.sylphix.com:6969/announce
 udp://tracker.tallpenguin.org:15730/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
