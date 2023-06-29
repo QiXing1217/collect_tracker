@@ -30,10 +30,11 @@ jobs:
             # save $response to a var or file
             echo "$response" >> data.txt
           }
-
+          
           fetch_url_data "https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt"
           fetch_url_data "https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt"
           fetch_url_data "https://t1.hloli.org/tracker.txt"
+          fetch_url_data "https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_best.txt"
 
       - name: Merge data
         run: |
