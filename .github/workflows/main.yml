@@ -29,10 +29,13 @@ jobs:
           fetch_url_data "https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt"
           fetch_url_data "https://t1.hloli.org/tracker.txt"
           fetch_url_data "https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_best.txt"
+          # 添加从仓库文件下载内容
+          response=$(cat ${{ github.workspace }}/single_tracker.txt)
+          echo "$response" >> data.txt
 
       - name: Merge data
         run: |
-          cat data.txt | sort | uniq > bt_tracker.txt
+          cat data.txt | sort -u > bt_tracker.txt
           rm data.txt
 
       - name: commit

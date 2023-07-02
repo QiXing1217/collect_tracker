@@ -13,7 +13,7 @@ This project brings together the following list of public trackers:
 * [https://gitee.com/harvey520/www.yaozuopan.top](https://gitee.com/harvey520/www.yaozuopan.top)
 * [https://t1.hloli.org](https://t1.hloli.org)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
-
+* [https://acgtracker.com/](https://acgtracker.com/)
 Thanks for these projects!
 
 ****
