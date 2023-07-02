@@ -40,8 +40,8 @@ jobs:
 
       - name: commit
         run: |
-          git config --global user.name 'QiXing1217'
-          git config --global user.email 'qihang1217@outlook.com'
+          git config --global user.name ${{ vars.USER_NAME }}
+          git config --global user.email ${{ vars.USER_EMAIL }}
           git add bt_tracker.txt
           git commit -m "${{ env.current_time }} - Merge bt_tracker files"
           git push --force
