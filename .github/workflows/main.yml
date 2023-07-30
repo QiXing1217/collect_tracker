@@ -25,10 +25,13 @@ jobs:
             echo "$response" >> data.txt
           }
           
-          fetch_url_data "https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt"
+          fetch_url_data "http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt" 
+          fetch_url_data "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
+          fetch_url_data "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
+          fetch_url_data "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt"
           fetch_url_data "https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt"
           fetch_url_data "https://t1.hloli.org/tracker.txt"
-          fetch_url_data "https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_best.txt"
+          
           # 添加从仓库文件下载内容
           response=$(cat ${{ github.workspace }}/single_tracker.txt)
           echo "$response" >> data.txt
