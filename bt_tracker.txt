@@ -107,6 +107,7 @@ http://45.154.253.10:80/announce
 http://45.154.253.4/announce
 http://45.154.253.4:80/announce
 http://45.154.253.5/announce
+http://45.154.253.5:80/announce
 http://45.154.253.6/announce
 http://45.154.253.6:80/announce
 http://45.154.253.7/announce
@@ -407,7 +408,6 @@ http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com/announce
 http://t2.pow7.com:80/announce
-http://tehconnection.eu:2790/announce
 http://thetracker.org/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -559,13 +559,13 @@ http://tracker.theempire.bz:3110/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentbytes.net/announce.php
 http://tracker.torrentbytes.net:80/announce.php
-http://tracker.torrenty.org:6969/announce
 http://tracker.torrentyorg.pl/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com/announce.php
 http://tracker.trancetraffic.com:80/announce.php
+http://tracker.tricitytorrents.com:2710/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
 http://tracker.xdvdz.com:2710/announce
@@ -841,6 +841,7 @@ udp://103.122.21.50:6969/announce
 udp://103.196.36.31:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.244.77.87:6969/announce
 udp://107.175.221.194:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
@@ -870,6 +871,7 @@ udp://185.189.13.108:6969/announce
 udp://185.217.199.21:6969/announce
 udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
+udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://185.68.21.244:6969/announce
 udp://192.3.165.191:6969/announce
@@ -881,7 +883,6 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
@@ -898,7 +899,6 @@ udp://37.187.95.112:6969/announce
 udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://38.7.201.142:6969/announce
-udp://45.154.253.5:6969/announce
 udp://45.9.60.30:6969/announce
 udp://45.92.156.182:2710/announce
 udp://46.138.242.240:6969/announce
@@ -909,7 +909,6 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.15.79.209:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
@@ -922,7 +921,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.to:2710/announce
 udp://77.73.69.230:6969/announce
 udp://8.rarbg.com:2710/announce
-udp://8.rarbg.to:2710/announce
 udp://80.240.22.46:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
@@ -934,8 +932,9 @@ udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
 udp://89.58.13.197:6969/announce
-udp://9.rarbg.me:2750/announce
-udp://9.rarbg.to:2790/announce
+udp://9.rarbg.com:2730/announce
+udp://9.rarbg.me:2910/announce
+udp://9.rarbg.to:2800/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
 udp://91.224.92.110:6969/announce
@@ -960,6 +959,7 @@ udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
+udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
@@ -1029,6 +1029,7 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
+udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
@@ -1099,11 +1100,9 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.breizh.pm:6969/announce
-udp://tracker.btsync.gq:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://tracker.coppersurfer.tk:80/announce
+udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -1114,7 +1113,7 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
-udp://tracker.fatkhoala.org:13750/announce
+udp://tracker.fatkhoala.org:13790/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.ilibr.org:80/announce
@@ -1143,7 +1142,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
-udp://tracker.tallpenguin.org:15800/announce
+udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
@@ -1151,7 +1150,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
@@ -1177,7 +1175,6 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.peckservers.com:9000/announce
-udp://www.torrent.eu.org:451/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
