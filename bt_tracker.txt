@@ -1,5 +1,5 @@
 
-[session-97435d9c] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
+[session-064bcda0] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -1055,6 +1055,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
