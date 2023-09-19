@@ -1,5 +1,5 @@
 
-[session-b142d4a0] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
+[session-1c495392] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -865,6 +865,7 @@ udp://193.37.214.12:6969/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
@@ -923,6 +924,7 @@ udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
+udp://bigfoot1942.sektori.org:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
@@ -1019,7 +1021,6 @@ udp://sanincode.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
-udp://soundmovie.ru:6969/announce
 udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
@@ -1060,6 +1061,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
