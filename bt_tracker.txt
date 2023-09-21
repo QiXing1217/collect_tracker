@@ -1,5 +1,5 @@
 
-[session-b94c4f86] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
+[session-364448ad] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -963,6 +963,7 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.harry.lu/announce
+udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
