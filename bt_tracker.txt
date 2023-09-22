@@ -1,5 +1,5 @@
 
-[session-364448ad] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
+[session-0147929b] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -119,6 +119,7 @@ http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
 http://45.63.111.135:8080/announce
 http://45.67.35.111:6969/announce
+http://46.17.46.112:8080/announce
 http://46.231.241.43:6969/announce
 http://47.243.23.189:6969/announce
 http://47.54.245.23:6969/announce
@@ -956,7 +957,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu/announce
@@ -1111,6 +1111,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
