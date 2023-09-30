@@ -1,5 +1,5 @@
 
-[session-3c4d0faa] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
+[session-75436f9a] Route error: The Repository has been blocked. see: https://gitee.com/harvey520/www.yaozuopan.top
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -999,6 +999,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
+udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
@@ -1113,7 +1114,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
@@ -1125,9 +1125,11 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
+udp://x.paranoid.agency:6969/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
+udp://z.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
 ws://hub.bugout.link:80/announce
 wss://qot.abiir.top:443/announce
