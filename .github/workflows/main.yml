@@ -29,7 +29,6 @@ jobs:
           fetch_url_data "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
           fetch_url_data "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
           fetch_url_data "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt"
-          fetch_url_data "https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt"
           fetch_url_data "https://t1.hloli.org/tracker.txt"
           
           # 添加从仓库文件下载内容

@@ -13,7 +13,6 @@ This project brings together the following list of public trackers:
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 * [http://github.itzmx.com/1265578519/OpenTracker](http://github.itzmx.com/1265578519/OpenTracker)
 * [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
-* [https://gitee.com/harvey520/www.yaozuopan.top](https://gitee.com/harvey520/www.yaozuopan.top)
 * [https://t1.hloli.org](https://t1.hloli.org)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 * [https://acgtracker.com/](https://acgtracker.com/)
