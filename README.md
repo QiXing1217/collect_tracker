@@ -1,8 +1,9 @@
 # Collect_Tracker
 
-[![GitHub license](https://img.shields.io/github/license/QiXing1217/collect_tracker.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/QiXing1217/collect_tracker/)
 [![GitHub Star](https://img.shields.io/github/stars/QiXing1217/collect_tracker.svg?style=flat-square&label=Star&color=4285dd&logo=github)](https://github.com/QiXing1217/collect_tracker/)
 [![GitHub Fork](https://img.shields.io/github/forks/QiXing1217/collect_tracker.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/QiXing1217/collect_tracker/)
+[![Collect trackers](https://github.com/QiXing1217/collect_tracker/actions/workflows/main.yml/badge.svg)](https://github.com/QiXing1217/collect_tracker/actions/workflows/main.yml)
+[![GitHub license](https://img.shields.io/github/license/QiXing1217/collect_tracker.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/QiXing1217/collect_tracker/)
 
 各方收集tracker，收集为主，合并各个项目的全列表并去重
 
