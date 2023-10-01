@@ -37,7 +37,7 @@ jobs:
 
       - name: Merge data
         run: |
-          cat data.txt | sort -u > bt_tracker.txt
+          sort -u data.txt | awk '{print $0"\n"}' > bt_tracker.txt
           rm data.txt
 
       - name: commit
