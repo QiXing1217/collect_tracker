@@ -1918,8 +1918,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://http://www.peckservers.com:9000/announce
 
 udp://htz3.noho.st:6969/announce
@@ -2151,6 +2149,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.netmap.top:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
