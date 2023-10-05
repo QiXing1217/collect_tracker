@@ -516,6 +516,8 @@ http://btx.anifilm.tv:80/announce.php
 
 http://buny.uk:6969/announce
 
+http://bvarf.tracker.sh:2086/announce
+
 http://bz.tracker.bz/announce
 
 http://bz.tracker.bz:80/announce
@@ -2126,6 +2128,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -2153,6 +2157,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.netmap.top:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -2242,9 +2248,9 @@ udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://x.paranoid.agency:6969/announce
+
+udp://y.paranoid.agency:6969/announce
 
 udp://yahor.ftp.sh:6969/announce
 
