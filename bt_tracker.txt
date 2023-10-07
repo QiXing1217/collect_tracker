@@ -1886,8 +1886,6 @@ udp://carr.codes:6969/announce
 
 udp://chouchou.top:8080/announce
 
-udp://city21.pk:6969/announce
-
 udp://concen.org:6969/announce
 
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
@@ -1921,6 +1919,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 
@@ -2127,8 +2127,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
