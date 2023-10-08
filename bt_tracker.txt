@@ -748,6 +748,8 @@ http://region.nl1.privex.cc:6969/announce
 
 http://reisub.nsupdate.info:6969/announce
 
+http://retracker.211.ru:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.joxnet.ru/announce
@@ -1214,6 +1216,8 @@ http://unknownsite.de:6969/announce
 
 http://uraniumhexafluori.de:1919/announce
 
+http://v6-tracker.0g.cx:6969/announce
+
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://vps02.net.orel.ru/announce
@@ -1239,6 +1243,8 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 
 http://www.bitseduce.com/announce.php
+
+http://www.biztorrents.com/announce.php
 
 http://www.chouchou.club:8080/announce
 
@@ -1886,6 +1892,8 @@ udp://carr.codes:6969/announce
 
 udp://chouchou.top:8080/announce
 
+udp://city21.pk:6969/announce
+
 udp://concen.org:6969/announce
 
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
@@ -1919,8 +1927,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
-
-udp://freedomalternative.com:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 
@@ -2007,6 +2013,8 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 
 udp://opentrackr.org:1337/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
