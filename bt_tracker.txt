@@ -1018,6 +1018,8 @@ http://tracker.iro.moe/announce
 
 http://tracker.istole.it/announce
 
+http://tracker.k.vu:6969/announce
+
 http://tracker.kali.org:6969/announce
 
 http://tracker.lelux.fi/announce
@@ -1939,8 +1941,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ipv6.tracker.harry.lu/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
