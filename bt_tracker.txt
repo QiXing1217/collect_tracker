@@ -2008,8 +2008,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
@@ -2138,8 +2136,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -2243,8 +2239,6 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
