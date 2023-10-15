@@ -1018,8 +1018,6 @@ http://tracker.iro.moe/announce
 
 http://tracker.istole.it/announce
 
-http://tracker.k.vu:6969/announce
-
 http://tracker.kali.org:6969/announce
 
 http://tracker.lelux.fi/announce
@@ -1303,6 +1301,8 @@ http://www.yqzuji.com:80/announce
 http://www.zone-torrent.net/announce.php
 
 http://www.zone-torrent.net:80/announce.php
+
+http://x.paranoid.agency:6969/announce
 
 http://xtremewrestlingtorrents.net/announce.php
 
@@ -2008,6 +2008,8 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
+udp://opentor.org:2710/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
@@ -2135,8 +2137,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
