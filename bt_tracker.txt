@@ -484,8 +484,6 @@ http://bt.rghost.net/announce
 
 http://bt.rghost.net:80/announce
 
-http://bt.xcty.eu.org:2095/announce
-
 http://bt.zlofenix.org:81/announce
 
 http://bt02.nnm-club.cc:2710/announce
@@ -2012,8 +2010,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
@@ -2094,8 +2090,6 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://touhou.kawaiiarts.com:6969/announce
-
 udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
@@ -2143,6 +2137,8 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
