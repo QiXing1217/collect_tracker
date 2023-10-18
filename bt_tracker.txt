@@ -1956,8 +1956,6 @@ udp://laze.cc:6969/announce
 
 udp://leefafa.tk:6969/announce
 
-udp://lloria.fr:6969/announce
-
 udp://ln.mtahost.co:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -2009,6 +2007,8 @@ udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
+
+udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -2138,8 +2138,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -2257,6 +2255,8 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://x.paranoid.agency:6969/announce
 
