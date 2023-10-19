@@ -2138,6 +2138,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -2260,7 +2262,11 @@ udp://www.torrent.eu.org:451/announce
 
 udp://x.paranoid.agency:6969/announce
 
+udp://x.t-1.org:6969/announce
+
 udp://y.paranoid.agency:6969/announce
+
+udp://y.t-1.org:6969/announce
 
 udp://yahor.ftp.sh:6969/announce
 
