@@ -1302,8 +1302,6 @@ http://www.zone-torrent.net/announce.php
 
 http://www.zone-torrent.net:80/announce.php
 
-http://x.paranoid.agency:6969/announce
-
 http://xtremewrestlingtorrents.net/announce.php
 
 http://xtremewrestlingtorrents.net:80/announce.php
@@ -1894,8 +1892,6 @@ udp://carr.codes:6969/announce
 
 udp://chouchou.top:8080/announce
 
-udp://city21.pk:6969/announce
-
 udp://concen.org:6969/announce
 
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
@@ -2020,6 +2016,8 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://pirate.hz.is:1337/announce
+
 udp://pow7.com:80/announce
 
 udp://private.anonseed.com:6969/announce
@@ -2137,8 +2135,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -2262,11 +2258,7 @@ udp://www.torrent.eu.org:451/announce
 
 udp://x.paranoid.agency:6969/announce
 
-udp://x.t-1.org:6969/announce
-
 udp://y.paranoid.agency:6969/announce
-
-udp://y.t-1.org:6969/announce
 
 udp://yahor.ftp.sh:6969/announce
 
