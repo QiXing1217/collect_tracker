@@ -1930,6 +1930,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://htz3.noho.st:6969/announce
@@ -2081,8 +2083,6 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://tk1v6.trackerservers.com:8080/announce
 
 udp://torrentclub.space:6969/announce
 
