@@ -1936,6 +1936,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://htz3.noho.st:6969/announce
@@ -2017,8 +2019,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 
 udp://opentrackr.org:1337/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -2141,8 +2141,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
