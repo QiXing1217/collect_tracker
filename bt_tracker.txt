@@ -1940,6 +1940,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://htz3.noho.st:6969/announce
@@ -1951,8 +1953,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ipv6.tracker.harry.lu/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -2115,6 +2115,8 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.anima.nz:6969/announce
 
 udp://tracker.army:6969/announce
 
