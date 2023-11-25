@@ -624,6 +624,8 @@ http://irrenhaus.dyndns.dk:80/announce.php
 
 http://jp.moeweb.pw:6969/announce
 
+http://kamikazee.duckdns.org:7777/announce
+
 http://kinorun.com/announce.php
 
 http://kinorun.com:80/announce.php
@@ -1540,6 +1542,8 @@ https://tracker.iriseden.fr/announce
 
 https://tracker.iriseden.fr:443/announce
 
+https://tracker.jdx3.org:443/announce
+
 https://tracker.jiesen.life:8443/announce
 
 https://tracker.kawaii.id/announce
@@ -2156,8 +2160,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -2255,8 +2257,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://ts.populargamers.co.za:6969/announce
 
 udp://tsundere.pw:6969/announce
 
