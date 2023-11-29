@@ -1962,6 +1962,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ipv6.tracker.harry.lu/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://keke.re:6969/announce
@@ -2256,8 +2258,6 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://ts.populargamers.co.za:6969/announce
-
 udp://tsundere.pw:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -2275,6 +2275,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.2600.com:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
