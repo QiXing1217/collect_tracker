@@ -2276,8 +2276,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
 
-udp://www.2600.com:6969/announce
-
 udp://www.peckservers.com:9000/announce
 
 udp://x.paranoid.agency:6969/announce
