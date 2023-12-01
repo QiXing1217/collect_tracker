@@ -1090,8 +1090,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.rev.pm:6969/announce
-
 http://tracker.sakurato.art:23333/announce
 
 http://tracker.sbsub.com:2710/announce
@@ -2174,8 +2172,6 @@ udp://tracker.ilibr.org:80/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.istole.it:80/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -2257,6 +2253,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://ts.populargamers.co.za:6969/announce
 
 udp://tsundere.pw:6969/announce
 
