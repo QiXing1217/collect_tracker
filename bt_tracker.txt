@@ -2170,6 +2170,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
