@@ -1970,6 +1970,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ipv6.tracker.harry.lu/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://keke.re:6969/announce
@@ -2166,8 +2168,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -2289,6 +2289,8 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://x.t-1.org:6969/announce
 
