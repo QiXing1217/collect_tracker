@@ -620,6 +620,8 @@ http://ipv4.tracker.harry.lu:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://ipv6.rer.lol:6969/announce
+
 http://irrenhaus.dyndns.dk/announce.php
 
 http://irrenhaus.dyndns.dk:80/announce.php
@@ -2095,6 +2097,8 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://su-data.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://t.zerg.pw:6969/announce
 
